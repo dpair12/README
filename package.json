@@ -1,5 +1,5 @@
 {
-  "name": "readme",
+  "name": "readme-generator",
   "version": "1.0.0",
   "description": "## Project Description",
   "main": "index.js",
@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "inquirer": "^8.2.4"
-  }
+  "license": "ISC"
 }
